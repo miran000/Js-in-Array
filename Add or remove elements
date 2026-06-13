@@ -1,0 +1,5 @@
+let touristD  = ["Shylet", "Coxbazar", "Bhola"];
+touristD.push("Kukrimukri");
+touristD.push("Monpura", "Rangamati");
+touristD.pop([5]);
+console.log(touristD);
