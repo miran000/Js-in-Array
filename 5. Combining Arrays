@@ -1,0 +1,10 @@
+
+
+const  Miran = ["Footballer", "Crickter", "Bascketballer"];
+const  Emran = ["Swimmer", "Shooter"];
+
+const CombinedBoth = Miran.concat(Emran);
+
+console.log(Miran);
+console.log(Emran);
+console.log(CombinedBoth);
