@@ -1,0 +1,7 @@
+let studentName = ["Miran"];
+let Name = "Miran";
+let nothing = "[]";
+
+console.log(Array.isArray(studentName));
+console.log(Array.isArray(Name));
+console.log(Array.isArray(nothing));
