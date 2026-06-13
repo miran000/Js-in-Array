@@ -1,0 +1,13 @@
+const books = [
+  "Harry Potter",
+  "The Hobbit",
+  "JavaScript",
+  "Clean Code",
+  "The Alchemist"
+];
+
+if (books.includes("JavaScript")) {
+  console.log("The element is present in the array.");
+} else {
+  console.log("The element is not present in the array.");
+}
